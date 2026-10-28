@@ -1,4 +1,4 @@
-<BLOG DOMAIN>:
-  username: <BLOG OWNER HATENA ID>
+lazy-skunk.hatenablog.com:
+  username: lazy_skunk
 default:
   local_root: entries
